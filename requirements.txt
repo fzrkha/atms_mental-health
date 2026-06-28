@@ -1,19 +1,18 @@
-streamlit==1.58.0
+streamlit
 
-pandas==2.3.3
-numpy==2.2.6
-scikit-learn==1.7.2
-scipy==1.15.3
-joblib==1.5.3
-threadpoolctl==3.6.0
+pandas
+numpy
+scikit-learn
+plotly
+matplotlib
+networkx
+python-louvain
 
-plotly==6.8.0
-matplotlib==3.10.8
-networkx==3.4.2
-python-louvain==0.16
+nltk
+Sastrawi
 
-nltk==3.9.4
-Sastrawi==1.0.1
-regex==2026.5.9
+openpyxl
 
-openpyxl==3.1.5
+pyvis
+
+emoji
